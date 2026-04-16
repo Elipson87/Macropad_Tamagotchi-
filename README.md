@@ -1,5 +1,5 @@
 # THE DIVIDE | Macro Controller
-A high precision tool for power users with integrated rotary encoder and OLED display, designed for efficient workflow integration.![[Finished PCB.png]]
+A high precision tool for power users with integrated rotary encoder and OLED display, designed for efficient workflow integration.! ![Render of PCB](Macropad_Tamagotchi-/MACRO/Media/Finished_PCB.png)
 The back mounted Microcontroller originally started out as a solution to a design flaw but ended up being a good thing because it allowed for a clean top down view.
 This project was designed as a budget friendly build.
 
